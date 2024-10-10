@@ -1,0 +1,7 @@
+wait(2)
+print("Loading mspaint...")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua"))()
+wait(3)
+print("Loaded, have fun!")
+wait(0.5)
+print("Also make sure to join FallenKing's discord server! (https://discord.gg/5EdX8SCAqM)")
