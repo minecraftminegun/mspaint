@@ -1,3 +1,4 @@
+print("Make sure you execute this in doors!")
 wait(2)
 print("Loading mspaint...")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua"))()
